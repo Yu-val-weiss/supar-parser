@@ -37,3 +37,11 @@ __pycache__
 
 # vscode
 .vscode
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
